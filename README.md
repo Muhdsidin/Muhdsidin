@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C++<br>🎯 Goals: become back-end developer<br>🎲 Fun fact: Iam MERN stack developer</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Next js<br>🎯 Goals: become back-end developer<br>🎲 Fun fact: Iam MERN stack developer</p>
 
 ###
 
