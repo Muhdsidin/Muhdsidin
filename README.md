@@ -11,6 +11,7 @@
 ###
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Next js<br>🎯 Goals: become back-end developer<br>🎲 Fun fact: Iam MERN stack developer
+
 Skills : html,css, bootstrap, js, react js, git/github, node js, express js,mongo db, next js </p>
 
 ###
