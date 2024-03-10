@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on personal project **Logic leap**
 
-- 👨‍💻 All of my projects are available at [https://www.instagram.com/logic_leap?igsh=MjFqeTlxdXc0Mjk=](https://www.instagram.com/logic_leap?igsh=MjFqeTlxdXc0Mjk=)
 
 - 💬 Ask me about **React, next js etc**
 
