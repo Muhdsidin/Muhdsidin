@@ -17,5 +17,3 @@
 <p align="left">
 <a href="https://instagram.com/zed.coding_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zed.coding_" height="30" width="40" /></a>
 </p>
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sidin?cardType=github&theme=github-dark&preferLogin=true&Border=DD320C)](https://git.io/awesome-stats-card)
