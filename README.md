@@ -4,14 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhdsidin&label=Profile%20views&color=0e75b6&style=flat" alt="muhdsidin" /> </p>
 
-- 🔭 I’m currently working on personal project **Logic leap**
+- 🔭 I’m currently working on personal project 
 
 
-- 💬 Ask me about **React, next js etc**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **officialzedro@gmail.com**
 
-- ⚡ Fun fact **I act like Sr dev 🙂**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
